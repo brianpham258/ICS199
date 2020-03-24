@@ -1,0 +1,55 @@
+body{
+    background-color: #e2a47a;
+}
+
+.bg-light{
+    background-color: #e2a47a !important;
+}
+
+.vert{
+	text-align:center;
+	padding-top:50px;
+	border-right: 1px solid black;
+}
+#horNav{
+	position: relative;
+	max-width: 100%;
+	padding-bottom:10px;
+	margin: 0;
+	border-bottom: 1px solid black;
+}	
+.btn-curr{
+	margin-left:200px;
+}
+.gap{
+	margin-left:25px;
+}
+.eastButton{
+	margin-top:50px;
+	width:150px;
+
+}
+.orderTable{
+	position:relative;
+	max-width:100%;
+	max-height:100%;
+	margin-top:50px;
+}
+th{
+	padding-left:25px;
+	text-align:left;
+}
+h1{
+	text-align:center;
+
+}
+
+td{
+	text-align:center;
+  	padding: 5px;
+  	cursor: pointer;
+}
+.selected {
+    background-color: green;
+    color: #FFF;
+}

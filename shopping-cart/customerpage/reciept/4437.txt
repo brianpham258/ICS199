@@ -1,0 +1,12 @@
+Date: 04-April-2019 01:31:05 PM
+Receipt number: 4437
+Customer name: Quang Huy
+Address: 336 Longacre DR
+Phone number: 14444423451
+Total before tax: CDN $74.95
+GST: CDN $3.75
+PST: CDN $5.25
+Grand total of: CDN $83.95
+
+Order ID: 437   Item: Sushi Boat    Quantity: 7    Price: 5
+Order ID: 438   Item: Like Noodle but Not    Quantity: 5    Price: 7.99

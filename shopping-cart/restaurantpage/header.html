@@ -1,0 +1,45 @@
+<html>
+<head>
+<title>ThinkFood</title>
+	<!--<meta http-equiv="refresh" content="5" >-->
+	<!--Bootstrap-->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<!--local Style-->
+	<link rel="stylesheet" href="includes/style.css">
+</head>
+<body>
+    <!--Delete section placeholder-->
+    <div class="north">
+
+    <!-- Nav bar-->
+	<h1>Restaurant</h1>
+	<div id="horNav">
+                <button type="button" class="btn btn-dark btn-curr" onclick="window.location.href='restaurant.php'">Current Order</button>
+                <button type="button" class="btn btn-dark gap" onclick="window.location.href='/~ics19906/shopping-cart/customerpage/thinkfood.php'">ThinkFood panel</button>
+	</div>
+
+    </div>
+
+    <div class="row">
+	<div class="col vert">
+            <button type="button" class="btn btn-dark eastButton" onclick="window.location.href='receive.php'">Receive all</button><br><br>
+
+	<form action="remove.php" method="GET">
+                <input type="hidden" id="getOrderId" name="getOrderId" value="asd">
+            <button type="submit" class="btn btn-dark eastButton">Remove</button><br><br>
+        </form>
+	<form action="bump.php" method="GET">
+                <input type="hidden" id="getOrderId3" name="getOrderId" value="">
+            <button type="submit" class="btn btn-dark eastButton">Bump by name</button><br><br>
+        </form>
+	<form action="bump2.php" method="GET">
+                <input type="hidden" id="getOrderId4" name="getOrderId" value="">
+            <button type="submit" class="btn btn-dark eastButton">Bump each</button><br><br>
+        </form>
+
+    	</div>
+
+
+
+	
+	

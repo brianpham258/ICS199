@@ -1,0 +1,12 @@
+<form action="menu_add_vars.php" method="POST" enctype="multipart/form-data">
+	Menu Name:<br> <input type="text" name="menuName" required><br>
+	Menu Price:<br> <input type="text" name="menuPrice" required><br>
+	Menu Category:<br> <input type="text" name="menuCategory" required><br> 
+	<!--Menu Description:<br> <textarea name="descMenu" rows="4" cols="50"></textarea><br>-->
+	Menu Picture:<br> <input type="file" name="fileToUpload" id="fileToUpload" required>
+	<input type="hidden" name="restaurant_id" value="$restaurant_id" required />
+	<br><br>
+	<input type="submit" value="submit">
+</form>
+
+

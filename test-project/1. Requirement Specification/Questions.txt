@@ -1,0 +1,3 @@
+1. Dose Gantt Chart contain repetitive and weekly report and demo?
+
+2. About task log, total hours are the sum of total spent time by members?

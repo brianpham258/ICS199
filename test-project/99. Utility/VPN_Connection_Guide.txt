@@ -1,0 +1,51 @@
+Hi all,
+
+For those of you who wish to connect to deepblue via WinSCP from home.  
+There is a preliminary step which requires a VPN connection.
+
+Here's how to set it up.
+
+If you set your browser to point to:
+
+https://tec259.camosun.ca
+
+... you will be prompted with a login.  (important to note the use of https and not just http)
+
+
+Enter your Camosun # (C#######) and your password.
+
+
+
+In the left sidebar, click on AnyConnect, and then in the main page - click on "Start AnyConnect".
+
+
+
+This should start an assessment of your system and set you up with 
+a client configured for your machine so that you can VPN in.  
+
+Give it a moment, and it should eventually provide you with a link 
+"Windows Desktop" (assuming you are using Windows) which you can click on to download and save an exe file.
+
+
+
+
+
+If you install this file, and then run it - you should be able to tell the client to connect to the following address:
+
+tec259.camosun.ca
+
+
+
+
+
+Give that a try and see if you can connect.
+
+
+
+
+
+If you can - next try to access deepblue as you normally would from within one of the labs on campus (via WinSCP).
+
+
+
+That should be everything!

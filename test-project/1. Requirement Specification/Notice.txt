@@ -1,0 +1,11 @@
+### 2019.03.06(Wed)
+1. Individual Task Log
+https://docs.google.com/document/d/1z-oojjuqRgIFseGCuByoGJ_ZuRWoFSOb9yrV0BY5e7U/edit?usp=sharing
+
+### 2019.03.04(Mon)
+1. Assign the use case specification
+Register, Check out - changsin
+View product, Login - Murphy
+Add Restaurant, Remove restaurant - Quang
+Receive/view order, Remove orders - Rolando
+

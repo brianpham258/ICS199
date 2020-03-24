@@ -1,0 +1,35 @@
+	| EDIT RESTAURANT TABLE, ADD REST_OWNER_ID|
+| SET ALL REST_OWNER_ID TO 3 which is Changsin's CUST_ID |
+	| EDIT CODE TABLE, ADD MORE FOOD CATEGORY |
+----------------------------------------------------------------
+/* PRODUCT CATEGORY */
+'01','Chicken'
+'02','Dessert'
+'03','Fries'
+'04','Hamburger'
+'05','Noodle'
+'06','Others'
+'07','Pizza'
+'08','Rice'
+'09','Seafood'
+
+
+/*REST_CATD_ID*/
+'01' JAPANESE
+'02' KOREAN
+'03' CHINESE
+'04' ITALY
+'05' CANADIAN
+'05' VIETNAMESE
+
+/*ORDER_STATUS*/
+'01' PAID
+'02' IN PROCESS
+'03' DELIVERED
+'04' CANCELLED
+'05' SAVED IN CART
+
+/*USER_AUTHOORITY*/
+'01' ADIM
+'02' RESTAURANT OWNER
+'03' CUSTOMER

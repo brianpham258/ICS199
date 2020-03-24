@@ -1,0 +1,5 @@
+1. templete
+https://www.w3schools.com/w3css/w3css_templates.asp
+
+2. sample from Doug and John
+https://deepblue.camosun.bc.ca/~greening/ShoppingCart/index.php

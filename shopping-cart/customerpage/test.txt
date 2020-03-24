@@ -1,0 +1,64 @@
+2-Fried Meat Boll- pcs: 5-price: 5.5
+12-Rice Cover Rice- pcs: 15-price: 14.5
+17-Green Onion Rice- pcs: 15-price: 5.5
+22-Spicy Ramen- pcs: 1-price: 15.5
+27-Korean Fried Chicken- pcs: 1-price: 8.55
+32-Fried Rice- pcs: 1-price: 6.5
+37-Yun Tong Soup- pcs: 1-price: 15.5
+42-Rost Duck- pcs: 1-price: 5.5
+47-Mixed Pasta- pcs: 1-price: 15.5
+52-Pasta Bread- pcs: 2-price: 15.5
+57-Meat Beans- pcs: 2-price: 15.5
+62-Lobster- pcs: 2-price: 25.5
+67-Canadian Fried Chicken- pcs: 2-price: 9.99
+72-Rost Beef- pcs: 2-price: 25.5
+77-Fires Combo- pcs: 2-price: 5.5
+82-Hoi An- pcs: 3-price: 5.5
+87-Salted Chicken- pcs: 3-price: 9.99
+92-Fried Meat Boll- pcs: 5-price: 5.5
+102-Rice Cover Rice- pcs: 15-price: 14.5
+107-Green Onion Rice- pcs: 15-price: 5.5
+112-Spicy Ramen- pcs: 1-price: 15.5
+117-Korean Fried Chicken- pcs: 1-price: 8.55
+122-Fried Rice- pcs: 1-price: 6.5
+127-Yun Tong Soup- pcs: 1-price: 15.5
+132-Rost Duck- pcs: 1-price: 5.5
+137-Mixed Pasta- pcs: 1-price: 15.5
+142-Pasta Bread- pcs: 2-price: 15.5
+147-Meat Beans- pcs: 2-price: 15.5
+152-Lobster- pcs: 2-price: 25.5
+157-Canadian Fried Chicken- pcs: 2-price: 9.99
+162-Rost Beef- pcs: 2-price: 25.5
+167-Fires Combo- pcs: 2-price: 5.5
+172-Hoi An- pcs: 3-price: 5.5
+177-Salted Chicken- pcs: 3-price: 9.99
+182-Green Onion Rice- pcs: 15-price: 5.5
+187-Spicy Ramen- pcs: 1-price: 15.5
+192-Korean Fried Chicken- pcs: 1-price: 8.55
+197-Fried Rice- pcs: 1-price: 6.5
+202-Yun Tong Soup- pcs: 1-price: 15.5
+207-Rost Duck- pcs: 1-price: 5.5
+212-Lobster- pcs: 2-price: 25.5
+217-Canadian Fried Chicken- pcs: 2-price: 9.99
+222-Rost Beef- pcs: 2-price: 25.5
+227-Fires Combo- pcs: 2-price: 5.5
+232-Hoi An- pcs: 3-price: 5.5
+237-Salted Chicken- pcs: 3-price: 9.99
+242-Fried Meat Boll- pcs: 5-price: 5.5
+252-Rice Cover Rice- pcs: 15-price: 14.5
+257-Mixed Pasta- pcs: 1-price: 15.5
+262-Pasta Bread- pcs: 2-price: 15.5
+267-Meat Beans- pcs: 2-price: 15.5
+324-Sushi Boat- pcs: 1-price: 5
+324-Rice Burger- pcs: 1-price: 15.3
+325-Rost Runa- pcs: 1-price: 5
+333-Sushi Boat- pcs: 1-price: 5
+334-Fried Meat Boll- pcs: 2-price: 5.5
+334-Hiroshima- pcs: 1-price: 7.99
+335-Fried Meat Boll- pcs: 3-price: 5.5
+336-Rice Burger- pcs: 1-price: 15.3
+337-Sushi Boat- pcs: 1-price: 5
+338-Sushi Boat- pcs: 1-price: 5
+339-Sushi Boat- pcs: 1-price: 5
+340-Sushi Boat- pcs: 1-price: 5
+341-Sushi Boat- pcs: 1-price: 5

@@ -1,0 +1,59 @@
+ropacho: Merge remote branch 'origin'
+ropacho: Added order history
+dojun849: modified for register with agreement
+dojun849: complete agree privacy term on header.php, privacy_temr.php
+dojun849: commit for accept privacy term on login.php
+dojun849: james test
+dojun849: test james
+ropacho: Merge remote branch 'origin'
+ropacho: deleted some trash receipt
+ropacho: added receipt number and time stamp
+Jonghyun Choi: complete for agreement of privacy term
+ropacho: price rounded to 2 and customer can now change shipping address
+ropacho: Merging murphy's work
+ropacho: Merge complete with quang works
+ropacho: Merge branch 'rolando'
+ropacho: delete
+quanghuy25899: quang works
+quanghuy25899: quang2
+Ropacho: deleted lot of thing
+Quang Pham: Delete customer_104_date_2019-03-31 17:24:33.txt
+Quang Pham: Delete customer_104_date_2019-03-31 17:19:57.txt
+ropacho: revert work
+ropacho: customer reciept
+ropacho: fixing merge conflict
+Ropacho: merged quang work
+Ropacho: Merge branch 'master' of https://gitlab.camosun.bc.ca/ics199-2019/group06/shopping-cart
+quanghuy25899: quang works
+quanghuy25899: quang works
+Ropacho: Merge branch 'master' of https://gitlab.camosun.bc.ca/ics199-2019/group06/shopping-cart
+ropacho: Merge branch 'master' into rolando
+ropacho: fixed login and register bug
+Ropacho: master comitting
+Ropacho: Merge branch 'master' of https://gitlab.camosun.bc.ca/ics199-2019/group06/shopping-cart
+ropacho: v2
+ropacho: restaurant page done
+Ropacho: Good
+Ropacho: Merge branch 'master' of https://gitlab.camosun.bc.ca/ics199-2019/group06/shopping-cart
+ropacho: Checkout complete v.2
+ropacho: Checkout Complete
+Ropacho: PULLING
+ropacho: modified about us
+ropacho: Checkout almost complete
+ropacho: deleted weeklogs
+Ropacho: Merge branch 'master' of https://gitlab.camosun.bc.ca/ics199-2019/group06/shopping-cart
+Ropacho: commiting before the pull
+ropacho: restaurant page
+ropacho: Merge branch 'master' of https://gitlab.camosun.bc.ca/ics199-2019/group06/shopping-cart
+dojun849: Correct for cartlist.php
+ropacho: merged cartlist
+ropacho: merging
+dojun849: correct font size for cart
+dojun849: fixing ttl amt for demo
+Ropacho: fixed login
+Ropacho:  Ready for demo week 5
+ropacho: Week 5 ready for demo
+ropacho: Merge remote branch 'origin'
+Ropacho: updating before merge
+ropacho: merging
+ropacho: fixing display products

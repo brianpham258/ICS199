@@ -1,0 +1,27 @@
+### 2019.03.13
+1. brd
+check out the all chinese on the picture for "UI Screen Mockups"
+
+2. figure
+check all figures works well
+
+3. each country has 3 restaurants and each restaurant has 5 food including pizza and hamburger mandatory
+
+4. check the important files on GitLab!
+"Gantt_Chart_v2.3.xlsx" on "0. Project Management"
+
+### 2019.03.11
+(Jonghyun)
+This is the feedback for week 2 report
+BRD
+-6  You are missing a lot of the functions that the system is to perform and instead are grouping multiple different functions in one functions.
+For example in UC003, in Steps performed you are describing the things a client can do where as you are suppose to be describing how the function is to be performed.  The purpose is that a programmer should be able to start programming from the use case description.
+
+Task Logs
+-1 
+Changsin Park - why are there the same task number for different task descriptions.
+Qi Li you have task 5 listed twice with different hours
+
+### 2019.03.10 
+(Jonghyun)
+1. Write important communication log here

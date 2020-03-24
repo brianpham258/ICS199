@@ -1,0 +1,15 @@
+/*CHANGED:
+ *ALTER TABLE SOLD_PRODUCT MODIFY quantity INT(255);
+ *ALTER TABLE SOLD_PRODUCT MODIFY review VARCHAR(6553);
+ *ADD 3 more customers in customer table (cust_id 6, 7, 8)
+ *Password = Username
+ *Insert 90 rows in ORDERINFO table
+ *Insert 90 rows in SOLD_PRODUCT table
+ *Just make sure all products had at least one rate and review
+ *Therefore I set all order_id = product_id in SOLD_PRODUCT table
+ *ALSO in CODE table, 03 means delivered in ORDER_STATUS column
+ *A dish should delivered first then a customer can write a reavle
+ *Therefore I set all ORDER_STATUS to 03 in ORDERINFO table 
+ *Always make sure there is a ORDER_ID in ORDERINFO table first (A customer placed a order) 
+ *then can have a row insert into SOLD_PRODUCT table (A customer received a order)
+*/

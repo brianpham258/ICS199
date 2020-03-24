@@ -1,0 +1,26 @@
+.btn-dark{
+    margin-left: 25px;
+}
+#logoTest{
+    font-size: 5em;
+}
+
+main{
+    background-color: #e6e6e6;
+    margin: 10px;
+    height: 100%;
+}
+.bg-light{
+    background-color:#ff5c33 !important;
+}
+.container{
+    margin: 0;
+    padding: 10px;
+    max-width: 100%;
+}
+
+
+
+#addRestaurant{
+    visibility: hidden;
+}

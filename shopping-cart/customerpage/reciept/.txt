@@ -1,0 +1,10 @@
+Date: 08-April-2019 02:30:44 PM
+Receipt number: 
+Customer name: Changsin Park
+Address: 9875 Pandora Ave
+Phone number: 7789999999
+Total before tax: CDN $
+GST: CDN $3.50
+PST: CDN $4.90
+Grand total of: CDN $78.39
+
